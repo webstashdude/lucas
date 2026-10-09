@@ -192,7 +192,7 @@
         </div>
 
         <button class="games" id="gamesButton">
-          ↗ &nbsp; GAMES
+          ↗ &#160; GAMES
         </button>
       </main>
 
